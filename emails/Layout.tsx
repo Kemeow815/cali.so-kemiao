@@ -44,38 +44,38 @@ export default function Layout({
               />
               <Text className="text-center">
                 <Link
-                  href="https://cali.so"
+                  href="https://sen.kemiao.online"
                   className="text-zinc-700 underline"
                 >
-                  <strong>Cali Castle</strong>
+                  <strong>克喵爱吃卤面</strong>
                 </Link>
                 <br />
-                开发者、设计师、细节控、创始人
+                大学生、资源分享者
               </Text>
               <Text className="text-center">
                 <Link
-                  href="https://cali.so/twitter"
+                  href="https://sen.kemiao.online/twitter"
                   className="text-xs text-zinc-600 underline"
                 >
                   Twitter
                 </Link>{' '}
                 |&nbsp;
-                <Link
-                  href="https://cali.so/youtube"
+                {/* <Link
+                  href="https://sen.kemiao.online/youtube"
                   className="text-xs text-zinc-600 underline"
                 >
                   YouTube
-                </Link>{' '}
+                </Link>{' '} */}
                 |&nbsp;
                 <Link
-                  href="https://cali.so/github"
+                  href="https://sen.kemiao.online/github"
                   className="text-xs text-zinc-600 underline"
                 >
                   GitHub
                 </Link>{' '}
                 |&nbsp;
                 <Link
-                  href="https://cali.so/bilibili"
+                  href="https://sen.kemiao.online/bilibili"
                   className="text-xs text-zinc-600 underline"
                 >
                   哔哩哔哩
