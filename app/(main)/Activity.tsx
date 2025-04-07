@@ -38,7 +38,7 @@ export function Activity() {
       enabled:
         typeof window === 'undefined'
           ? false
-          : new URL(window.location.href).hostname === 'cali.so',
+          : new URL(window.location.href).hostname === 'sen.kemiao.online',
     }
   )
   const [open, setOpen] = React.useState(false)

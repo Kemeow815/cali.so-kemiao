@@ -60,12 +60,12 @@ export default function Layout({
                   Twitter
                 </Link>{' '}
                 |&nbsp;
-                {/* <Link
+                <Link
                   href="https://sen.kemiao.online/youtube"
                   className="text-xs text-zinc-600 underline"
                 >
                   YouTube
-                </Link>{' '} */}
+                </Link>{' '}
                 |&nbsp;
                 <Link
                   href="https://sen.kemiao.online/github"
