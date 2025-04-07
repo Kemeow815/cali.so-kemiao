@@ -50,7 +50,7 @@ const nextConfig = {
       },
       {
         "source": "/github",
-        "destination": "https://github.com/Kememow",
+        "destination": "https://github.com/Kemeow815",
         "permanent": true
       },
       {
