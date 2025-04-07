@@ -3,8 +3,8 @@ import { clsxm } from '@zolplay/utils'
 import Image from 'next/image'
 import Link, { type LinkProps } from 'next/link'
 
-import portraitImage from '~/assets/logo.webp'
-import portraitAltImage from '~/assets/touxiang.jpg'
+import portraitImage from '~/assets/touxiang.jpg'
+import portraitAltImage from '~/assets/logo.webp'
 
 function AvatarContainer({ className, ...props }: ComponentProps) {
   return (
