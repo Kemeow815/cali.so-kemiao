@@ -24,6 +24,7 @@ Cali 的个人博客网站 [https://cali.so/](https://cali.so/) 的源代码。
 ### 教程
 
 想部署成自己的网站？可以查看 Cali 的[官方教程](https://cali.so/blog/guide-for-cloning-my-site)
+数据后台加/admin，写文章后方加/studio
 
 ### 本地开发
 
